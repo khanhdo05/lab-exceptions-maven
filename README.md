@@ -5,7 +5,7 @@ A lab on exceptions.
 Authors:
 
 * Samuel A. Rebelsky (starter code).
-* Your Name Here
-* Your Name Here
+* Khanh Do
+* Sebastian Manzas
 
 This code may be found at <URL>.
